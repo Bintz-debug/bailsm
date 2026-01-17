@@ -22,7 +22,7 @@
 
   <!-- GitHub Repo -->
   <a href="https://github.com/Bintz-debug">
-    <img src="https://img.shields.io/badge/GitHub-Bintz-debug-181717?logo=github" alt="GitHub Profile">
+    <img src="https://img.shields.io/badge/Bintz-debug-181717?logo=github" alt="GitHub Profile">
   </a>
 
   <!-- Instagram -->
